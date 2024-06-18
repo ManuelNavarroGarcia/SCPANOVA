@@ -146,7 +146,7 @@ pyzmq==25.1.2
     #   jupyter-client
 rpy2==3.5.15
     # via scpanova (setup.py)
-scikit-learn==1.4.0
+scikit-learn==1.5.0
     # via scpanova (setup.py)
 scipy==1.12.0
     # via
