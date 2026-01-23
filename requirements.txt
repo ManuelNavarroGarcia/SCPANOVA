@@ -198,7 +198,7 @@ tzlocal==5.2
     # via rpy2
 wcwidth==0.2.13
     # via prompt-toolkit
-wheel==0.42.0
+wheel==0.46.2
     # via pip-tools
 zipp==3.19.1
     # via
