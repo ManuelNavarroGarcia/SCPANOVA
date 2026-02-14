@@ -13,7 +13,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Manuel Navarro García",
     author_email="manuelnavarrogithub@gmail.com",
-    python_requires=">=3.9",
+    python_requires=">=3.10",
     setup_requires=["setuptools_scm"],
     install_requires=["cpsplines", "pyarrow", "rpy2", "scikit-learn", "typer"],
     extras_require={"dev": ["black", "ipykernel", "pip-tools>=7.0.0"]},
