@@ -123,7 +123,7 @@ ptyprocess==0.7.0
     # via pexpect
 pure-eval==0.2.2
     # via stack-data
-pyarrow==15.0.0
+pyarrow==23.0.1
     # via scpanova (setup.py)
 pycparser==2.21
     # via cffi
