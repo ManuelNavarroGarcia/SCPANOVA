@@ -6,7 +6,7 @@
 #
 asttokens==2.4.1
     # via stack-data
-black==24.3.0
+black==26.3.1
     # via scpanova (setup.py)
 build==1.0.3
     # via pip-tools
@@ -127,7 +127,7 @@ pyarrow==15.0.0
     # via scpanova (setup.py)
 pycparser==2.21
     # via cffi
-pygments==2.17.2
+pygments==2.20.0
     # via ipython
 pyparsing==3.1.1
     # via matplotlib
